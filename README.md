@@ -1,5 +1,7 @@
 # M5 - Kenzie Buster
 
+Esse projeto consiste numa aplicação para gerenciar usuários, filmes e compras, incluindo autenticação e permissionamento de rotas para diferentes tipos de usuário.
+
 ## Instalação dos pacotes de teste
 
 - Verifique se os pacotes `pytest` e/ou `pytest-testdox` estão instalados globalmente em seu sistema:
